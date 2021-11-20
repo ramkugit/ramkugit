@@ -9,6 +9,13 @@ ramkugit/ramkugit is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 New info to the project
+ 
 New info to the project
+ 
 New info to the project
+<<<<<<< HEAD
 ### New  EDIT ###
+=======
+ 
+from browser
+>>>>>>> 726ef775f95ad76cb76fc2292389a7fdd71fe65a
